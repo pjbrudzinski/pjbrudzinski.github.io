@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="navbar">
-            <h1>Dance & Artistry</h1>
+            <h1>Parker Brudzinski</h1>
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
@@ -49,13 +49,13 @@
         <div class="container">
             <h2>Contact Me</h2>
             <p>If you'd like to get in touch or collaborate, feel free to send me a message!</p>
-            <p>Email: [your_email@example.com]</p>
+            <p>Email: [pjbrudzinski@att.net]</p>
         </div>
     </section>
 
     <footer>
         <div class="footer-content">
-            <p>&copy; 2024 [Your Name]. All Rights Reserved.</p>
+            <p>&copy; 2024 [Parker Brudzinski]. All Rights Reserved.</p>
         </div>
     </footer>
 
