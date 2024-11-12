@@ -20,22 +20,34 @@
             </nav>
         </div>
     </header>
+/* Set the background image for the entire page */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('![Headshot](https://github.com/user-attachments/assets/e351bebd-8dfb-40ee-b6c9-6bb15ed8a5e9)
+');  /* Replace with your image file */
+    background-size: cover;                  /* Make sure the image covers the whole page */
+    background-position: center center;      /* Center the background image */
+    background-attachment: fixed;            /* Keep the background fixed while scrolling */
+}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website with Background Image</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
-</head>
-<body>
-    <div class="content">
-        <h1>Welcome to My Website</h1>
-        <p>This is a website with a background image.</p>
-    </div>
-</body>
-</html>
+/* You can add styles for other elements like text, etc. */
+.content {
+    text-align: center;
+    color: white;                            /* White text for contrast */
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
 
     <section id="about" class="about">
         <div class="container">
