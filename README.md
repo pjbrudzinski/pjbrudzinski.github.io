@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,6 +54,8 @@
         <div class="footer-content">
             <p>&copy; 2024 [Parker Brudzinski]. All Rights Reserved.</p>
         </div>
+    background-image: url('https://www.example.com/path/to/your-image.jpg');
+
     </footer>
 
-background-image: url('background-image: url('https://www.example.com/path/to/your-image.jpg')
+
