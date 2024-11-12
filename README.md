@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Showcasing my dance and artistry.">
-    <title>Your Dance & Artistry</title>
+    <meta name="description" content=" Showcasing my dance and artistry.">
+    <title></title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -20,6 +20,22 @@
             </nav>
         </div>
     </header>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website with Background Image</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <div class="content">
+        <h1>Welcome to My Website</h1>
+        <p>This is a website with a background image.</p>
+    </div>
+</body>
+</html>
 
     <section id="about" class="about">
         <div class="container">
